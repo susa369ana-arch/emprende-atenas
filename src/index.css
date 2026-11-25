@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-red: #C8102E;
+  --color-brand-red-dark: #8E1220;
+  --color-brand-gold: #D4A62A;
+  --color-brand-bg: #F5F5F5;
+  --color-brand-dark: #2B2B2B;
+}
+
+@layer base {
+  body {
+    background-color: #F5F5F5;
+    color: #2B2B2B;
+    font-family: 'DM Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    letter-spacing: -0.02em;
+  }
+}

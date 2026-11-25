@@ -1,0 +1,6 @@
+{
+  "name": "Emprendimiento y Líderes Comunales",
+  "description": "Plataforma comunitaria para apoyar lo local, conectar con emprendedores y líderes comunales con enlaces directos a WhatsApp, direcciones y valoraciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
